@@ -18,7 +18,10 @@ Welcome to my playground
 {: .links}
 
 </div>
+
+<canvas id="spiral-canvas" style="width: 150px; height: 150px; border-radius: 50%; flex-shrink: 0;"></canvas>
 </div>
+<script src="/assets/js/spiral.js"></script>
 
 ## About me
 I worked on a variety of sequence generative modeling and protein property prediction tasks that culminated in my doctoral thesis titled ["Modern Machine Learning Methods for Protein Design"](/assets/dissertation.pdf). I was advised by [Richard Bonneau](https://en.wikipedia.org/wiki/Richard_Bonneau) and [Kyunghyun Cho](https://en.wikipedia.org/wiki/Kyunghyun_Cho) at [NYU](https://cs.nyu.edu/home/about/) in the Computer Science department of the Courant Institute. 
