@@ -4,3 +4,6 @@ url: https://djberenberg.github.io
 
 # Build settings
 markdown: kramdown
+# Exclude agent instructions from site output.
+exclude:
+  - AGENTS.md
