@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<nav class="nav-bar">
+  <label for="widget-select">Widgets</label>
+  <select id="widget-select" onchange="if(this.value){location.href=this.value}">
+    <option value="">Select…</option>
+    <option value="/xor-lab.html">XOR Weight Lab</option>
+  </select>
+</nav>
+
 <div class="header" markdown="1">
 
 ![Profile photo](/assets/photo.jpg){: .profile-photo}
