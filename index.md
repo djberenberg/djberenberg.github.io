@@ -36,7 +36,7 @@ I worked on a variety of sequence generative modeling and protein property predi
 
 Most of my PhD work stems from my time at [Prescient Design](https://www.gene.com/scientists/our-scientists/prescient-design), where I was a founding member (employee #1) from the early startup days through the acquisition by and integration into Genentech/Roche. Prior to Prescient/NYU I worked in the protein structure/function subgroup of the Systems Biology lab at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/).
 
-Before that, I completed an accelerated Master's at [UVM](https://www.uvm.edu/) in computer science advised by [James Bagrow](https://bagrow.com/) with work on understanding causal attribution networks. 
+Before that, I completed an accelerated Master's at [UVM](https://www.uvm.edu/) advised by [James Bagrow](https://bagrow.com/) with work on understanding causal attribution networks. 
 
 ## Education
 
